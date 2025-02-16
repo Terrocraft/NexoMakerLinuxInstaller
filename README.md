@@ -7,13 +7,13 @@ This script automates the installation of Wine and the setup required to run Nex
 To install and run Nexo Maker using this script, execute the following command:
 
 ```bash
-bash <(curl -s https://raw.githubusercontent.com/yourusername/nexomaker-installer/main/install_nexomaker.sh)
+bash <(curl -s https://raw.githubusercontent.com/Terrocraft/NexoMakerLinuxInstaller/refs/heads/main/NexoMakerInstaller.sh)
 ```
 
 Alternatively, if `curl` is not installed, use:
 
 ```bash
-bash <(wget -qO- https://raw.githubusercontent.com/yourusername/nexomaker-installer/main/install_nexomaker.sh)
+bash <(wget -qO- https://raw.githubusercontent.com/Terrocraft/NexoMakerLinuxInstaller/refs/heads/main/NexoMakerInstaller.sh)
 ```
 
 ## Features
